@@ -1,6 +1,6 @@
 /*------------------------------------------ Variables/Selectores globales --------------------------------*/
 :root{
-    --color-primario: #151515;
+    --color-primario: #292e31;
     --color-secundario: #f5f4e9;
     --color-terceario: #f2f2f2;
     --color-texto:rgb(238, 230, 230);
@@ -66,7 +66,7 @@ section div h1 {
 
 /*--------------------------------------------- Section Footer  -------------------------------------------*/
 .bg-secondary{
-background-color: var(--color-primario) !important;
+background-color: #292e31 !important;
 }
 
 
