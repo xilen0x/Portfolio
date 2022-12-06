@@ -17,6 +17,7 @@
 ### Azure
 ### GCP
 ### Oracle cloud
+[Loading database 'HR'​ in Oracle Database Actions](https://www.linkedin.com/pulse/loading-database-hr-oracle-actions-carlos-astorga/?trackingId=YFANFvGjQJyQuxqCwz3pJw%3D%3D)
 
 ## Visualization
 ### Tableau
@@ -27,6 +28,10 @@
 
 ## Web Development
 
+[Crear un proyecto con express](https://xilenoxblog.wordpress.com/2020/06/30/crear-un-proyecto-con-express/)
+
+[Crear un proyecto con nodeJS como servidor](https://xilenoxblog.wordpress.com/2020/06/30/inicializar-un-nuevo-proyecto-con-node/)
+
 ## Systems
 
 [Instalación de Docker en Centos Stream](https://www.youtube.com/watch?v=MIGeq9NfUZc)
@@ -36,4 +41,8 @@
 [Instalación de VMwareTools en Solaris 10](https://www.youtube.com/watch?v=ttdFkt8sFck)
 
 [Instalación Apache Spark en Ubuntu ](https://www.youtube.com/watch?v=Zhsu5o1O7lg)
+
+[Add new partitions and logical volumes, and swap to a system non-destructively](https://xilenoxblog.wordpress.com/2019/04/21/add-new-partitions-and-logical-volumes-and-swap-to-a-system-non-destructively/)
+
+[Extend existing logical volumes](https://xilenoxblog.wordpress.com/2019/05/14/extend-existing-logical-volumes-2/)
 
