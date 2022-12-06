@@ -19,6 +19,8 @@
 ### GCP
 
 ### Oracle cloud
+
+[Web-Server running on Oracle Cloud Infrastructure](http://129.151.251.209/)
 [Loading database 'HR'​ in Oracle Database Actions](https://www.linkedin.com/pulse/loading-database-hr-oracle-actions-carlos-astorga/?trackingId=YFANFvGjQJyQuxqCwz3pJw%3D%3D)
 
 ## Visualization
