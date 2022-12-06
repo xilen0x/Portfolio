@@ -15,7 +15,9 @@
 [Creación de instancia Windows Server en AWS EC2 y asignación de volumen](https://www.youtube.com/watch?v=RcRLxwt6He0)
 
 ### Azure
+
 ### GCP
+
 ### Oracle cloud
 [Loading database 'HR'​ in Oracle Database Actions](https://www.linkedin.com/pulse/loading-database-hr-oracle-actions-carlos-astorga/?trackingId=YFANFvGjQJyQuxqCwz3pJw%3D%3D)
 
@@ -45,4 +47,5 @@
 [Add new partitions and logical volumes, and swap to a system non-destructively](https://xilenoxblog.wordpress.com/2019/04/21/add-new-partitions-and-logical-volumes-and-swap-to-a-system-non-destructively/)
 
 [Extend existing logical volumes](https://xilenoxblog.wordpress.com/2019/05/14/extend-existing-logical-volumes-2/)
+
 
