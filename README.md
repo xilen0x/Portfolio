@@ -9,7 +9,7 @@
 
   [Code in deepnote](https://deepnote.com/@carlos-astorga/ETL-Extraccion-de-datos-desde-weatherapicom-561c9cdc-162f-4f8a-8dba-e9d08b5a3c7a)
 
-  [Code in github](https://github.com/xilen0x/Send-messages-with-twilio/blob/main/twilio_script.py)
+  [Code in github](https://github.com/xilen0x/Send-messages-with-twilio)
 * 
 
 * 
