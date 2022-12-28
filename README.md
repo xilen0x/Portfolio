@@ -5,9 +5,11 @@
 
 ### ETL
 
-* [Pipeline en Python, que extrae datos desde la API de www.weatherapi.com. Luego crea con estos un dataframe y se envía un SMS al celular gracias al servicio de twilio.](https://deepnote.com/@carlos-astorga/ETL-Extraccion-de-datos-desde-weatherapicom-561c9cdc-162f-4f8a-8dba-e9d08b5a3c7a)
+* Pipeline en Python, que extrae datos desde la API de weatherapi.com. Luego crea con estos un dataframe y se envía un SMS al celular gracias al servicio de twilio:
 
-  [Code](https://github.com/xilen0x/Send-messages-with-twilio/blob/main/twilio_script.py)
+  [Code in deepnote](https://deepnote.com/@carlos-astorga/ETL-Extraccion-de-datos-desde-weatherapicom-561c9cdc-162f-4f8a-8dba-e9d08b5a3c7a)
+
+  [Code in github](https://github.com/xilen0x/Send-messages-with-twilio/blob/main/twilio_script.py)
 * 
 
 * 
