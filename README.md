@@ -5,19 +5,23 @@
 
 ### ETL
 
-* Pipeline en Python, que extrae el pronóstico del tiempo desde la **API de weatherapi.com**. Luego crea con estos un dataframe y se envía un **SMS** al celular gracias al servicio de twilio:
+* Python pipeline that obtains data from **weatherapi API** about the **Weather forecast**. It then generates a dataset to send a **SMS** message through Twilio service.
 
   [Code in deepnote](https://deepnote.com/@carlos-astorga/ETL-Extraccion-de-datos-desde-weatherapicom-561c9cdc-162f-4f8a-8dba-e9d08b5a3c7a)
 
   [Code in github](https://github.com/xilen0x/Send-messages-with-twilio)
 
-* Python pipeline that obtains data from coinmarketcap API about the first 10 cryptocurrencies. It then generates a dataset to send a WhatsApp message through Twilio service.: 
+* Python pipeline that obtains data from **coinmarketcap API** about the first 10 **cryptocurrencies**. It then generates a dataset to send a **WhatsApp** message through Twilio service.: 
   
   [Code in deepnote](https://deepnote.com/@carlos-astorga/ETL-Cryptocurrency-Data-d2ecab20-7ab9-4890-9753-56c5b6503df0)
 
   [Code in github](https://github.com/xilen0x/ETL_ejercicios/tree/main/etl_dollar_cripto)
 
-* 
+* Python pipeline that obtains data from **apilayer.com** about the first 10 **cryptocurrencies**. It then generates a dataset to send a **SMS** message through Twilio service.: 
+  
+  [Code in deepnote](https://deepnote.com/@carlos-astorga/ETLdollarprice-0ccb54b9-5cc0-4df9-bde5-19e74ebb863e)
+
+  [Code in github](https://github.com/xilen0x/ETL_ejercicios/blob/main/etl_dollar_price/main.py)
 
 ## Cloud
 
