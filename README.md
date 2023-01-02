@@ -5,12 +5,17 @@
 
 ### ETL
 
-* Pipeline en Python, que extrae datos desde la API de weatherapi.com. Luego crea con estos un dataframe y se envía un SMS al celular gracias al servicio de twilio:
+* Pipeline en Python, que extrae el pronóstico del tiempo desde la **API de weatherapi.com**. Luego crea con estos un dataframe y se envía un **SMS** al celular gracias al servicio de twilio:
 
   [Code in deepnote](https://deepnote.com/@carlos-astorga/ETL-Extraccion-de-datos-desde-weatherapicom-561c9cdc-162f-4f8a-8dba-e9d08b5a3c7a)
 
   [Code in github](https://github.com/xilen0x/Send-messages-with-twilio)
-* 
+
+* Python pipeline that obtains data from coinmarketcap API about the first 10 cryptocurrencies. It then generates a dataset to send a WhatsApp message through Twilio service.: 
+  
+  [Code in deepnote](https://deepnote.com/@carlos-astorga/ETL-Cryptocurrency-Data-d2ecab20-7ab9-4890-9753-56c5b6503df0)
+
+  [Code in github](https://github.com/xilen0x/ETL_ejercicios/tree/main/etl_dollar_cripto)
 
 * 
 
