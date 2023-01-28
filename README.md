@@ -48,7 +48,9 @@ This portfolio or overview presents several projects related to data engineering
 
 [Vizzes](https://public.tableau.com/app/profile/carlos.astorga)
 
-### Power BI
+### SQL
+
+### Java
 
 ## Web Development
 
