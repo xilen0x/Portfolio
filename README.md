@@ -48,9 +48,9 @@ This portfolio or overview presents several projects related to data engineering
 
 [Vizzes](https://public.tableau.com/app/profile/carlos.astorga)
 
-### SQL
+## SQL
 
-### Java
+## Java programming
 [Spring boot API](https://github.com/xilen0x/spring-workspace/tree/main/spring-boot-api)
 
 ## Web Development
