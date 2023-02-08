@@ -52,7 +52,8 @@ This portfolio or overview presents several projects related to data engineering
 
 ## Java programming
 [Spring boot API](https://github.com/xilen0x/spring-workspace/tree/main/spring-boot-api)
-[Spring boot Web](https://github.com/xilen0x/red-hat-clone/blob/master/src/img/Screenshot%20from%202023-02-08%2019-58-10.png?raw=true)
+
+[Spring boot Web](https://github.com/xilen0x/spring-workspace/tree/main/spring-boot-web)
 
 ## Web Development
 
