@@ -2,6 +2,8 @@
 ### (in progress)
 This portfolio or overview presents several projects related to data engineering and the cloud. Data engineering projects include creating Python pipelines to fetch data from different APIs (weatherapi, coinmarketcap and apilayer) and generating datasets to send text and WhatsApp messages through the Twilio service. Cloud projects include creating a billing alert on AWS, creating a Windows Server instance on AWS EC2 and volume mapping, creating a web server on Oracle Cloud Infrastructure and loading an 'HR' database into Oracle Database. Data visualization projects using Tableau are also mentioned, as well as web development projects using express and nodeJS. Finally, systems-related projects are presented, with technologies like Docker, Linux, Solaris, and Apache Spark. The codes for these projects are available on github and deepnote.
 
+## C - Repository of my projects done at 42Barcelona Telefónica.
+[link](https://github.com/xilen0x/my42storage)
 
 ## Data Engineering
 
