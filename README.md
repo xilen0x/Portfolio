@@ -1,8 +1,16 @@
 # Portfolio  ... 
 ### (in progress)
-This portfolio or overview presents several projects related to data engineering and the cloud. Data engineering projects include creating Python pipelines to fetch data from different APIs (weatherapi, coinmarketcap and apilayer) and generating datasets to send text and WhatsApp messages through the Twilio service. Cloud projects include creating a billing alert on AWS, creating a Windows Server instance on AWS EC2 and volume mapping, creating a web server on Oracle Cloud Infrastructure and loading an 'HR' database into Oracle Database. Data visualization projects using Tableau are also mentioned, as well as web development projects using express and nodeJS. Finally, systems-related projects are presented, with technologies like Docker, Linux, Solaris, and Apache Spark. The codes for these projects are available on github and deepnote.
+This portfolio or overview presents several projects related to data engineering and the cloud. 
 
-## C - Repository of my projects done at 42Barcelona Telefónica.
+Data engineering projects include creating Python pipelines to fetch data from different APIs (weatherapi, coinmarketcap and apilayer) and generating datasets to send text and WhatsApp messages through the Twilio service. 
+
+Cloud projects include creating a billing alert on AWS, creating a Windows Server instance on AWS EC2 and volume mapping, creating a web server on Oracle Cloud Infrastructure and loading an 'HR' database into Oracle Database. 
+
+Data visualization projects using Tableau are also mentioned, as well as web development projects using express and nodeJS. 
+
+Finally, systems-related projects are presented, with technologies like Docker, Linux, Solaris, and Apache Spark. 
+
+## *C - Repository of my projects done at 42Barcelona Telefónica.
 [link](https://github.com/xilen0x/my42storage)
 
 ### Projects Overview
@@ -17,7 +25,7 @@ This portfolio or overview presents several projects related to data engineering
 | ``pipex`` 🔒| The "Pipex" project is a program that mimics the original terminal pipe '\|'. ![Link](https://github.com/xilen0x/42_pipex/tree/main)|
 | ``so_long`` 🔒| The "so_long" is a computer graphics project, in which we have worked with the minilibx library. The goal is to create a small video game in C.![Link](https://raw.githubusercontent.com/xilen0x/xilen0x/master/images_x_repos/so_long.png) ![Link](https://github.com/xilen0x/42_so_long/tree/main)|
 
-## Data Engineering
+## *Data Engineering
 
 ### ETL
 
@@ -39,7 +47,7 @@ This portfolio or overview presents several projects related to data engineering
 
   [Code in github](https://github.com/xilen0x/ETL_ejercicios/blob/main/etl_dollar_price/main.py)
 
-## Cloud
+## *Cloud
 
 ### AWS
 
@@ -57,25 +65,25 @@ This portfolio or overview presents several projects related to data engineering
 
 [Loading database 'HR'​ in Oracle Database Actions](https://www.linkedin.com/pulse/loading-database-hr-oracle-actions-carlos-astorga/?trackingId=YFANFvGjQJyQuxqCwz3pJw%3D%3D)
 
-## Visualization
+## *Visualization
 ### Tableau
 
 [Vizzes](https://public.tableau.com/app/profile/carlos.astorga)
 
-## SQL
+## *SQL
 
-## Java programming
+## *Java programming
 [Spring boot API](https://github.com/xilen0x/spring-workspace/tree/main/spring-boot-api)
 
 [Spring boot Web](https://github.com/xilen0x/spring-workspace/tree/main/spring-boot-web)
 
-## Web Development
+## *Web Development
 
 [Crear un proyecto con express](https://xilenoxblog.wordpress.com/2020/06/30/crear-un-proyecto-con-express/)
 
 [Crear un proyecto con nodeJS como servidor](https://xilenoxblog.wordpress.com/2020/06/30/inicializar-un-nuevo-proyecto-con-node/)
 
-## Systems
+## *Systems
 
 [Instalación de Docker en Centos Stream](https://www.youtube.com/watch?v=MIGeq9NfUZc)
 
