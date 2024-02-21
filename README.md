@@ -21,9 +21,26 @@ Finally, systems-related projects are presented, with technologies like Docker, 
 | ``Born2beRoot`` | Born2beRoot, was a project which consisted of building and configuring a Linux(Debian) virtual machine, making various adjustments and configurations of it to meet the client's requirements. In it, the services of:ssh, sudo, lighttpd, wordpress, PHP, Docker, UFW, mariaDB, among others.  ![Link](https://github.com/xilen0x/Born2beroot-Tutorial)|
 | ``Printf`` | The function ft_printf(), which mimics the original printf(). ![Link](https://github.com/xilen0x/my42storage/tree/main/cursus/project02_printf) |
 | ``Get_next_line`` | The `ft_get_next_line` is a program for reading lines from a file written in C. The program incrementally reads the content of a file identified by its file descriptor (`fd`) and returns a complete line on each call. ![Link](https://github.com/xilen0x/my42storage/tree/main/cursus/project04_GetNextLine)|
-| ``push_swap`` 🔒| The "Push_swap" project is a program that can sort a set of integers, uses internally linked lists and a minimal set of instructions (moves), with the aim of finding the most efficient solution. ![Link](https://github.com/xilen0x/42_push_swap)|
-| ``pipex`` 🔒| The "Pipex" project is a program that mimics the original terminal pipe '\|'. ![Link](https://github.com/xilen0x/42_pipex/tree/main)|
-| ``so_long`` 🔒| The "so_long" is a computer graphics project, in which we have worked with the minilibx library. The goal is to create a small video game in C.![Link](https://raw.githubusercontent.com/xilen0x/xilen0x/master/images_x_repos/so_long.png) ![Link](https://github.com/xilen0x/42_so_long/tree/main)|
+| ``push_swap`` | The "Push_swap" project is a program that can sort a set of integers, uses internally linked lists and a minimal set of instructions (moves), with the aim of finding the most efficient solution. ![Link](https://github.com/xilen0x/42_push_swap)|
+| ``pipex`` | The "Pipex" project is a program that mimics the original terminal pipe '\|'. ![Link](https://github.com/xilen0x/42_pipex/tree/main)|
+| ``so_long`` | The "so_long" is a computer graphics project, in which we have worked with the minilibx library. The goal is to create a small video game in C.![Link](https://raw.githubusercontent.com/xilen0x/xilen0x/master/images_x_repos/so_long.png) ![Link](https://github.com/xilen0x/42_so_long/tree/main)|
+| ``philosophers`` | The "philosophers" is a project that seeks to understand the concepts of threading a process, how to create threads and work with mutexes. ![Link](https://github.com/xilen0x/42_philosophers)
+  ```
+  $ ./philo 5 800 200 200 5
+  0 2 has taken a fork
+  1 2 has taken a fork
+  1 2 is eating
+  1 4 has taken a fork
+  1 4 has taken a fork
+  1 4 is eating
+  180 1 has taken a fork
+  201 4 is sleeping
+  201 3 has taken a fork
+  201 3 has taken a fork
+  201 3 is eating ...
+  ```
+|
+
 
 ## *Data Engineering
 
